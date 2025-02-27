@@ -1,0 +1,10 @@
+fg,fg,12,12,1,fgfg
+wrwrw,wewew,123,123,123,sff
+dfgfgf,fg,12,12,12,fg
+D-Link,PCI-E,1000,1,1,RX457
+TP-Link,USB_3.0,100,1,0,RX580
+DEXP,PCI-E,1000,1,1,RX8000
+Gembird,USB_3.0,100,1,0,RX457
+Orient,PCI-E,2500,0,1,RX580
+Baseus,Type-C,1000,1,0,RX550
+Ugreen,Type-C,10,1,1,RX550
